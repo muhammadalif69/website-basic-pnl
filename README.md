@@ -1,0 +1,1 @@
+# politeknik_negeri_lhokseumawe
