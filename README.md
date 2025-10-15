@@ -61,12 +61,20 @@ Through this project, I learned to:
 ```plaintext
 website-basic-pnl/
 │
-├── index.html        # Main homepage
-├── about.html        # About PNL section
-├── contact.html      # Contact or form page
+├── index.html             # Main homepage (landing page)
 │
-├── /assets           # Images, icons, and media
-└── /css              # Stylesheets
+├── /html/                 # Additional internal pages (subsections of the site)
+│   ├── visi_misi.html     # Vision and Mission page
+│   ├── jurusan_prodi.html # Departments and Study Programs page
+│   ├── identitas.html     # Campus identity or profile page
+│   ├── rencana.html       # Future plans or goals page
+│   └── logo.html          # Logo meaning or explanation page
+│
+├── /img/                  # Images, icons, and media files used in the website
+│   └── (all image assets)
+│
+└── /css/                  # Stylesheets for layout and design
+    └── style.css
 ```
 
 ---
