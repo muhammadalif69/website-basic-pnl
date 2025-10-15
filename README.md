@@ -1,78 +1,60 @@
-# 🌐 Website Basic PNL
+<h1 align="center">🌐 Website Basic PNL</h1>
 
-Welcome to **Website Basic PNL**, a simple yet elegant introductory website designed to showcase **Politeknik Negeri Lhokseumawe (PNL)** — one of Indonesia’s leading polytechnic institutions.  
+<p align="center">
+  <i>A simple yet elegant website introducing</i><br>
+  <b>Politeknik Negeri Lhokseumawe (PNL)</b><br>
+  — One of Indonesia’s leading polytechnic institutions —
+</p>
 
-> 🎓 This project is my first GitHub repository, created as part of my learning journey in **web development** and **UI design**.
+<p align="center">
+  🎓 My very first GitHub project, built to learn <b>Web Development</b> and <b>UI Design</b>.
+</p>
+
+<p align="center">
+  <a href="https://muhammadalif69.github.io/website-basic-pnl/"><img src="https://img.shields.io/badge/🌍 Live_Demo-Visit-blue?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20in-Indonesia-red?style=for-the-badge">
+</p>
 
 ---
 
-## 🚀 Live Demo
+## 🏫 About the Project
 
-🔗 **Visit the Website:** [https://muhammadalif69.github.io/website-basic-pnl/](https://muhammadalif69.github.io/website-basic-pnl/)
-
----
-
-## 💡 About the Project
-
-This website was built to:
+**Website Basic PNL** is a minimalist and responsive website designed to:
 - Introduce **Politeknik Negeri Lhokseumawe (PNL)** to new students and visitors.
-- Demonstrate the use of **basic HTML, CSS, and JavaScript**.
-- Practice building a **responsive and clean web layout**.
+- Showcase basic web technologies using **HTML, CSS, and JavaScript**.
+- Practice building a modern yet simple front-end layout.
 
-The design focuses on:
-- 🎨 **Simplicity** — easy to navigate and pleasant to read.  
-- 💻 **Responsiveness** — optimized for desktop and mobile.  
-- 🏫 **Educational Theme** — highlighting the vision and atmosphere of the campus.
+### ✨ Design Highlights
+- 🎨 **Clean & Modern UI** — Simple, readable, and visually appealing.  
+- 📱 **Fully Responsive** — Works beautifully on desktop and mobile.  
+- 🏫 **Educational Concept** — Reflecting the campus spirit and values.  
+
+---
+
+## 🧠 Learning Outcomes
+
+Through this project, I learned to:
+- Structure semantic web pages with **HTML5**.  
+- Style layouts using **CSS3** and basic responsiveness.  
+- Add light interactivity with **Vanilla JavaScript**.  
+- Deploy static websites using **GitHub Pages**.  
+- Maintain a clean, well-documented codebase.
 
 ---
 
 ## 🛠️ Tech Stack
 
-|         Technology       |              Description           |
-|--------------------------|------------------------------------|
-| **HTML5**                | Structure and content of the pages |
-| **CSS3**                 | Styling and layout design          |
-| **JavaScript (Vanilla)** | Simple interactive elements        |
-| **GitHub Pages**         | Hosting and deployment             |
+| Technology | Description |
+|-------------|--------------|
+| **HTML5** | Defines the website structure and content |
+| **CSS3** | Handles design, layout, and responsiveness |
+| **JavaScript (Vanilla)** | Adds simple interactivity and behavior |
+| **GitHub Pages** | Free hosting and version control |
 
 ---
 
 ## 📂 Project Structure
 
-website-basic-pnl/
-│
-├── index.html   # Main homepage
-├── about.html   # About PNL section
-├── contact.html # Contact or form page
-├── /assets      # Images, icons, etc.
-└── /css         # Stylesh
-
----
-
-## 📈 Learning Goals
-
-Through this project, I learned how to:
-- Use HTML & CSS effectively for layout and design.  
-- Deploy static websites using **GitHub Pages**.  
-- Maintain clean and readable code structure.  
-- Present an institution professionally online.
-
----
-
-## 💬 Acknowledgments
-
-Special thanks to **Politeknik Negeri Lhokseumawe (PNL)** for inspiration, and to everyone supporting my journey as a web developer.  
-
-If you like this project, consider ⭐ **starring** the repository — it means a lot!
-
----
-
-## 📞 Contact
-
-**👤 Muhammad Alif**  
-📧 [Email me](mailto:62.muhammadalif@gmail.com.com)  
-🌍 [GitHub Profile](https://github.com/muhammadalif69)
-
----
-
-> _"Every great journey begins with a single line of code."_ 💻✨
