@@ -28,9 +28,9 @@
 - Practice building a modern yet simple front-end layout.
 
 ### ✨ Design Highlights
-- 🎨 **Clean & Modern UI** — Simple, readable, and visually appealing.  
-- 📱 **Fully Responsive** — Works beautifully on desktop and mobile.  
-- 🏫 **Educational Concept** — Reflecting the campus spirit and values.  
+🎨 **Clean & Modern UI** — Simple, readable, and visually appealing.  
+📱 **Fully Responsive** — Works beautifully on desktop and mobile.  
+🏫 **Educational Concept** — Reflecting the campus spirit and values.  
 
 ---
 
