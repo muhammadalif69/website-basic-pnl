@@ -29,7 +29,7 @@
 
 ### ✨ Design Highlights
 🎨 **Clean & Modern UI** — Simple, readable, and visually appealing.  
-📱 **Fully Responsive** — Works beautifully on desktop and mobile.  
+📱  **Fully Responsive** — Works beautifully on desktop and mobile.  
 🏫 **Educational Concept** — Reflecting the campus spirit and values.  
 
 ---
