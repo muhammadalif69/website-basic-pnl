@@ -77,17 +77,13 @@ website-basic-pnl/
     └── style.css
 ```
 
----
 
 ## 🌐 Live Demo
 
 <p align="center">
   🚀 <b>View Online:</b><br>
-  👉 <a style="text-decoration:none;" href="https://muhammadalif69.github.io/website-basic-pnl/" target="_blank">
-  muhammadalif69.github.io/website-basic-pnl</a>
+  👉 <a href="https://muhammadalif69.github.io/website-basic-pnl/">Click here to open the website</a>
 </p>
-
----
 
 ## 💬 Acknowledgments
 
@@ -99,7 +95,6 @@ website-basic-pnl/
 <p align="center">
   ⭐ If you like this project, consider giving it a star — it means a lot!
 </p>
----
 
 ## 📞 Contact Me
 
@@ -108,7 +103,6 @@ website-basic-pnl/
   📧 <a style="text-decoration:none;" href="mailto:62.muhammadalif@gmail.com">62.muhammadalif@gmail.com</a><br>
   🌍 <a style="text-decoration:none;" href="https://github.com/muhammadalif69">GitHub Profile</a>
 </p>
----
 
 <p align="center">
   <i>"Every great journey begins with a single line of code."</i><br>
