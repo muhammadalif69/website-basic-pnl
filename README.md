@@ -29,7 +29,7 @@
 
 ### ✨ Design Highlights
 🎨 **Clean & Modern UI** — Simple, readable, and visually appealing.  
-📱  **Fully Responsive** — Works beautifully on desktop and mobile.  
+📱 **Fully Responsive** — Works beautifully on desktop and mobile.  
 🏫 **Educational Concept** — Reflecting the campus spirit and values.  
 
 ---
@@ -81,44 +81,15 @@ website-basic-pnl/
 
 ## 🌐 Live Demo
 
-🚀 **View Online:**  
-👉 [https://muhammadalif69.github.io/website-basic-pnl/](https://muhammadalif69.github.io/website-basic-pnl/)
+<p align="center">
+  🚀 <b>View Online:</b><br>
+  👉 <a style="text-decoration:none;" href="https://muhammadalif69.github.io/website-basic-pnl/" target="_blank">
+  muhammadalif69.github.io/website-basic-pnl</a>
+</p>
 
 ---
 
 ## 💬 Acknowledgments
-
-Special thanks to **Politeknik Negeri Lhokseumawe (PNL)** for inspiration  
-and to everyone who has supported my early journey in web development 🙌  
-
-⭐ **If you like this project, consider giving it a star!**
-
----
-
-## 📞 Contact Me
-
-**👤 Muhammad Alif**  
-📧 [62.muhammadalif@gmail.com](mailto:62.muhammadalif@gmail.com)  
-🌍 [GitHub Profile](https://github.com/muhammadalif69)  
-
----
-
-<p align="center">
-  <i>"Every great journey begins with a single line of code."</i><br>
-  💻✨
-</p>
-
-<h2 align="center">🌐 Live Demo</h2>
-
-<p align="center">
-  🚀 <b>View Online:</b><br>
-  👉 <a href="https://muhammadalif69.github.io/website-basic-pnl/" target="_blank">
-  https://muhammadalif69.github.io/website-basic-pnl/</a>
-</p>
-
----
-
-<h2 align="center">💬 Acknowledgments</h2>
 
 <p align="center">
   Special thanks to <b>Politeknik Negeri Lhokseumawe (PNL)</b> for inspiration,<br>
@@ -128,15 +99,18 @@ and to everyone who has supported my early journey in web development 🙌
 <p align="center">
   ⭐ If you like this project, consider giving it a star — it means a lot!
 </p>
-
 ---
 
-<h2 align="center">📞 Contact Me</h2>
+## 📞 Contact Me
 
 <p align="center">
   👤 <b>Muhammad Alif</b><br>
-  📧 <a href="mailto:62.muhammadalif@gmail.com">62.muhammadalif@gmail.com</a><br>
-  🌍 <a href="https://github.com/muhammadalif69">GitHub Profile</a>
+  📧 <a style="text-decoration:none;" href="mailto:62.muhammadalif@gmail.com">62.muhammadalif@gmail.com</a><br>
+  🌍 <a style="text-decoration:none;" href="https://github.com/muhammadalif69">GitHub Profile</a>
 </p>
+---
 
-
+<p align="center">
+  <i>"Every great journey begins with a single line of code."</i><br>
+  💻✨
+</p>
