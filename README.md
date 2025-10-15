@@ -58,3 +58,44 @@ Through this project, I learned to:
 
 ## 📂 Project Structure
 
+```plaintext
+website-basic-pnl/
+│
+├── index.html        # Main homepage
+├── about.html        # About PNL section
+├── contact.html      # Contact or form page
+│
+├── /assets           # Images, icons, and media
+└── /css              # Stylesheets
+
+---
+
+## 🌐 Live Demo
+
+🚀 **View Online:**  
+👉 [https://muhammadalif69.github.io/website-basic-pnl/](https://muhammadalif69.github.io/website-basic-pnl/)
+
+---
+
+## 💬 Acknowledgments
+
+Special thanks to **Politeknik Negeri Lhokseumawe (PNL)** for inspiration  
+and to everyone who has supported my early journey in web development 🙌  
+
+⭐ **If you like this project, consider giving it a star!**
+
+---
+
+## 📞 Contact Me
+
+**👤 Muhammad Alif**  
+📧 [62.muhammadalif@gmail.com](mailto:62.muhammadalif@gmail.com)  
+🌍 [GitHub Profile](https://github.com/muhammadalif69)  
+
+---
+
+<p align="center">
+  <i>"Every great journey begins with a single line of code."</i><br>
+  💻✨
+</p>
+
