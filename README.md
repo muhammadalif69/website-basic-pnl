@@ -67,6 +67,7 @@ website-basic-pnl/
 │
 ├── /assets           # Images, icons, and media
 └── /css              # Stylesheets
+```
 
 ---
 
