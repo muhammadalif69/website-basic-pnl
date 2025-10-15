@@ -108,3 +108,35 @@ and to everyone who has supported my early journey in web development 🙌
   💻✨
 </p>
 
+<h2 align="center">🌐 Live Demo</h2>
+
+<p align="center">
+  🚀 <b>View Online:</b><br>
+  👉 <a href="https://muhammadalif69.github.io/website-basic-pnl/" target="_blank">
+  https://muhammadalif69.github.io/website-basic-pnl/</a>
+</p>
+
+---
+
+<h2 align="center">💬 Acknowledgments</h2>
+
+<p align="center">
+  Special thanks to <b>Politeknik Negeri Lhokseumawe (PNL)</b> for inspiration,<br>
+  and to everyone who has supported my early journey in web development 🙌
+</p>
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star — it means a lot!
+</p>
+
+---
+
+<h2 align="center">📞 Contact Me</h2>
+
+<p align="center">
+  👤 <b>Muhammad Alif</b><br>
+  📧 <a href="mailto:62.muhammadalif@gmail.com">62.muhammadalif@gmail.com</a><br>
+  🌍 <a href="https://github.com/muhammadalif69">GitHub Profile</a>
+</p>
+
+
